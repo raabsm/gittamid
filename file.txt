@@ -1,2 +1,6 @@
 m1
 line from github
+
+git stash
+
+another commit
